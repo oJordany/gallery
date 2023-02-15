@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img width="100px" src="https://user-images.githubusercontent.com/84668196/218897677-3e0cd267-34e1-48a8-bb91-b52d22470080.png">
+  <a href="https://ojordany.github.io/gallery/"><img width="100px" src="https://user-images.githubusercontent.com/84668196/218897677-3e0cd267-34e1-48a8-bb91-b52d22470080.png">
 
   <h1>Gallery</h1>
   
@@ -33,6 +33,7 @@
 
 <h2></h2>
 <h2><a name="result">&#x1F50E Result</a></h2>
+<span><br/>➥ See the project by clicking here.<a href="https://ojordany.github.io/gallery/" alt='next'><img align="center"src="https://cdn.discordapp.com/attachments/897609680073941012/963207775045971988/pngwing-edit.png" alt="clique-cursor" width="60px"></a></span>
 
 ![image](https://user-images.githubusercontent.com/84668196/218894487-80a84360-d95b-42d7-9074-6b9409675657.png)
 
