@@ -22,7 +22,7 @@
   <li><a href="#result">Result</a></li>
   <li><a href="#requirements">Requirements</a></li>
   <li><a href="#license">License</a></li>
-  <li><a href="#authors">Authors</a></li>
+  <li><a href="#authors">Author</a></li>
 </ul>
 
 <h2></h2>
