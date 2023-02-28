@@ -87,7 +87,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <h2></h2>
 <h2><a name="authors">&#x1F465 Author</a></h2>
 <!-- Jordany's Profile-->
-<a href="https://github.com/oJordany/estanteVirtual"><img src="https://user-images.githubusercontent.com/84668196/178501845-e4b3b3a0-02e4-46ff-8447-ddf8e0a962e7.png" width="180px" height="180px" align="left"></a> 
+<a href="https://github.com/oJordany/gallery"><img src="https://user-images.githubusercontent.com/84668196/178501845-e4b3b3a0-02e4-46ff-8447-ddf8e0a962e7.png" width="180px" height="180px" align="left"></a> 
 <h1>Luiz Jordany de Sousa Silva</h1>
 <strong>Computer Science Student | Developer | intern at SEDEPTI-BC-UFPA</strong>
 <br/><br/>
